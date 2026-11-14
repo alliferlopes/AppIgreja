@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "br.com.luzespe.app-debug-4:/drawable-nodpi_instagram.png.flat",
+        "source": "br.com.luzespe.app-main-6:/drawable-nodpi/instagram.png"
+    },
+    {
+        "merged": "br.com.luzespe.app-debug-4:/drawable_ic_bi_house_door.xml.flat",
+        "source": "br.com.luzespe.app-main-6:/drawable/ic_bi_house_door.xml"
+    },
+    {
+        "merged": "br.com.luzespe.app-debug-4:/drawable-nodpi_carrosel01.png.flat",
+        "source": "br.com.luzespe.app-main-6:/drawable-nodpi/carrosel01.png"
+    },
+    {
+        "merged": "br.com.luzespe.app-debug-4:/drawable_ic_bi_calendar_event.xml.flat",
+        "source": "br.com.luzespe.app-main-6:/drawable/ic_bi_calendar_event.xml"
+    },
+    {
+        "merged": "br.com.luzespe.app-debug-4:/drawable-nodpi_imagem01_transparente.png.flat",
+        "source": "br.com.luzespe.app-main-6:/drawable-nodpi/imagem01_transparente.png"
+    },
+    {
+        "merged": "br.com.luzespe.app-debug-4:/drawable-nodpi_facebook.png.flat",
+        "source": "br.com.luzespe.app-main-6:/drawable-nodpi/facebook.png"
+    },
+    {
+        "merged": "br.com.luzespe.app-debug-4:/drawable-nodpi_imagem02.png.flat",
+        "source": "br.com.luzespe.app-main-6:/drawable-nodpi/imagem02.png"
+    },
+    {
+        "merged": "br.com.luzespe.app-debug-4:/drawable_ic_bi_info_circle.xml.flat",
+        "source": "br.com.luzespe.app-main-6:/drawable/ic_bi_info_circle.xml"
+    },
+    {
+        "merged": "br.com.luzespe.app-debug-4:/drawable-nodpi_carrosel02.png.flat",
+        "source": "br.com.luzespe.app-main-6:/drawable-nodpi/carrosel02.png"
+    },
+    {
+        "merged": "br.com.luzespe.app-debug-4:/drawable-nodpi_imagem01.png.flat",
+        "source": "br.com.luzespe.app-main-6:/drawable-nodpi/imagem01.png"
+    },
+    {
+        "merged": "br.com.luzespe.app-debug-4:/drawable-nodpi_logo.png.flat",
+        "source": "br.com.luzespe.app-main-6:/drawable-nodpi/logo.png"
+    },
+    {
+        "merged": "br.com.luzespe.app-debug-4:/drawable_ic_bi_geo_alt.xml.flat",
+        "source": "br.com.luzespe.app-main-6:/drawable/ic_bi_geo_alt.xml"
+    },
+    {
+        "merged": "br.com.luzespe.app-debug-4:/drawable-nodpi_youtube.png.flat",
+        "source": "br.com.luzespe.app-main-6:/drawable-nodpi/youtube.png"
+    },
+    {
+        "merged": "br.com.luzespe.app-debug-4:/drawable_ic_bi_telephone.xml.flat",
+        "source": "br.com.luzespe.app-main-6:/drawable/ic_bi_telephone.xml"
+    },
+    {
+        "merged": "br.com.luzespe.app-debug-4:/drawable-nodpi_carrosel03.png.flat",
+        "source": "br.com.luzespe.app-main-6:/drawable-nodpi/carrosel03.png"
+    },
+    {
+        "merged": "br.com.luzespe.app-debug-4:/drawable_ic_bi_envelope.xml.flat",
+        "source": "br.com.luzespe.app-main-6:/drawable/ic_bi_envelope.xml"
+    },
+    {
+        "merged": "br.com.luzespe.app-debug-4:/drawable_ic_bi_heart.xml.flat",
+        "source": "br.com.luzespe.app-main-6:/drawable/ic_bi_heart.xml"
+    }
+]

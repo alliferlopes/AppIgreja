@@ -1,0 +1,7 @@
+<resources>
+    <color name="site_black">#111111</color>
+    <color name="site_background">#F8F9FA</color>
+    <color name="site_gold">#FFB700</color>
+    <color name="site_text">#212529</color>
+    <color name="site_muted">#6C757D</color>
+</resources>

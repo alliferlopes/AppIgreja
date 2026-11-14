@@ -1,0 +1,57 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="br.com.luzespe.app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->INJECTED
+8        android:minSdkVersion="23"
+8-->INJECTED
+9        android:targetSdkVersion="35" />
+9-->INJECTED
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\xampp\htdocs\AppIgreja\projeto-app\app\src\main\AndroidManifest.xml:2:5-67
+11-->C:\xampp\htdocs\AppIgreja\projeto-app\app\src\main\AndroidManifest.xml:2:22-64
+12
+13    <application
+13-->C:\xampp\htdocs\AppIgreja\projeto-app\app\src\main\AndroidManifest.xml:3:5-16:19
+14        android:allowBackup="true"
+14-->C:\xampp\htdocs\AppIgreja\projeto-app\app\src\main\AndroidManifest.xml:4:9-35
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+16-->INJECTED
+17        android:icon="@drawable/logo"
+17-->C:\xampp\htdocs\AppIgreja\projeto-app\app\src\main\AndroidManifest.xml:5:9-38
+18        android:label="Igreja Luz e Esperança"
+18-->C:\xampp\htdocs\AppIgreja\projeto-app\app\src\main\AndroidManifest.xml:6:9-47
+19        android:roundIcon="@drawable/logo"
+19-->C:\xampp\htdocs\AppIgreja\projeto-app\app\src\main\AndroidManifest.xml:7:9-43
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme"
+21-->C:\xampp\htdocs\AppIgreja\projeto-app\app\src\main\AndroidManifest.xml:8:9-40
+22        android:usesCleartextTraffic="true" >
+22-->C:\xampp\htdocs\AppIgreja\projeto-app\app\src\main\AndroidManifest.xml:9:9-44
+23        <activity
+23-->C:\xampp\htdocs\AppIgreja\projeto-app\app\src\main\AndroidManifest.xml:10:9-15:20
+24            android:name="br.com.luzespe.app.ui.MainActivity"
+24-->C:\xampp\htdocs\AppIgreja\projeto-app\app\src\main\AndroidManifest.xml:10:19-50
+25            android:exported="true"
+25-->C:\xampp\htdocs\AppIgreja\projeto-app\app\src\main\AndroidManifest.xml:10:51-74
+26            android:windowSoftInputMode="adjustResize" >
+26-->C:\xampp\htdocs\AppIgreja\projeto-app\app\src\main\AndroidManifest.xml:10:75-117
+27            <intent-filter>
+27-->C:\xampp\htdocs\AppIgreja\projeto-app\app\src\main\AndroidManifest.xml:11:13-14:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->C:\xampp\htdocs\AppIgreja\projeto-app\app\src\main\AndroidManifest.xml:12:17-69
+28-->C:\xampp\htdocs\AppIgreja\projeto-app\app\src\main\AndroidManifest.xml:12:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->C:\xampp\htdocs\AppIgreja\projeto-app\app\src\main\AndroidManifest.xml:13:17-77
+30-->C:\xampp\htdocs\AppIgreja\projeto-app\app\src\main\AndroidManifest.xml:13:27-74
+31            </intent-filter>
+32        </activity>
+33    </application>
+34
+35</manifest>

@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color site_background
+color site_black
+color site_gold
+color site_muted
+color site_text
+drawable carrosel01
+drawable carrosel02
+drawable carrosel03
+drawable facebook
+drawable ic_bi_calendar_event
+drawable ic_bi_envelope
+drawable ic_bi_geo_alt
+drawable ic_bi_heart
+drawable ic_bi_house_door
+drawable ic_bi_info_circle
+drawable ic_bi_telephone
+drawable imagem01
+drawable imagem01_transparente
+drawable imagem02
+drawable instagram
+drawable logo
+drawable youtube
+style AppTheme

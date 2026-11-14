@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="site_background">#F8F9FA</color>
+    <color name="site_black">#111111</color>
+    <color name="site_gold">#FFB700</color>
+    <color name="site_muted">#6C757D</color>
+    <color name="site_text">#212529</color>
+    <style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:colorAccent">@color/site_gold</item>
+        <item name="android:statusBarColor">@color/site_black</item>
+        <item name="android:navigationBarColor">@color/site_black</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">@color/site_background</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+</resources>
